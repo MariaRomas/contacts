@@ -26,7 +26,7 @@ import ru.mospolytech.contacts.R;
 
 
 public class MainActivity extends AppCompatActivity {
-    public final static String EXTRA_MESSAGE="MESSAGE";
+  
     private ListView objListView;
     DBHelper db;
 
