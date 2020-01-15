@@ -18,7 +18,6 @@ import ru.mospolytech.contactsbook.DBHelper;
 import ru.mospolytech.contactsbook.R;
 
 public class DisplayContact extends AppCompatActivity {
-    int from_Where_I_Am_Coming = 0;
     private DBHelper mydb;
     TextView surname;
     TextView name;
